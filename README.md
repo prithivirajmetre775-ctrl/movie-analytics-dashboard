@@ -128,10 +128,12 @@ To build an interactive system that:
 
 ## 👨‍💻 Author
 
-**Yogesh Thorkhade**
+**Prithiviraj**
 
 ---
 
+## 🚀 Live Demo
+👉 https://movie-analytics-dashboard-6rjew4qzen47w9upyjwvc4.streamlit.app/
 ## ⭐ If you like this project
 
 Give it a ⭐ on GitHub!
